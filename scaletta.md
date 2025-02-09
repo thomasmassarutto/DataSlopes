@@ -41,3 +41,5 @@ Composto da 3100+ punti gps **originali** a cui sono state aggiunte le informazi
 // TODO: mostra che sei andato più veloce dove la pendenza non era granchè
 
 // TODO: mostra il tuo coefficiente d'attrito
+
+ precisione musurazioni $\leftarrow$ $\plusminus$
