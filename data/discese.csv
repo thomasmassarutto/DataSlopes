@@ -1,4 +1,4 @@
-unixtime_start,unixtime_end,stato,nome,impianto_inizio,impianto_fine
+unixtime_start,unixtime_end,stato,pista,impianto_inizio,impianto_fine
 1734859650,1734860191,Discesa,Zoncolan 4,Valvan,Cuel D'Ajar
 1734861215,1734861429,Discesa,Zoncolan 4,Cuel D'Ajar,Giro d'Italia
 1734861976,1734862398,Discesa,Zoncolan 4,Giro d'Italia,Giro d'Italia
