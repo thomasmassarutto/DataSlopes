@@ -17,5 +17,5 @@ Questa repository contiene il progetto d’esame per il corso di Fondamenti di S
 
 Comando per la conversione:
 
-`jupyter nbconvert DataSlopes.ipynb --to slides --SlidesExporter reveal_number='c/t' --SlidesExporter.reveal_scroll=True --no-input`
+`jupyter nbconvert DataSlopes.ipynb  --to slides --SlidesExporter.reveal_number='c/t' --SlidesExporter.reveal_scroll=True --no-input`
 
